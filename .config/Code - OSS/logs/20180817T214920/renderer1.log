@@ -1,0 +1,44 @@
+[2018-08-17 21:49:21.655] [renderer1] [info] no standard startup: not just one text editor
+[2018-08-17 21:49:31.347] [renderer1] [info] no standard startup: not just one text editor
+[2018-08-17 21:50:03.846] [renderer1] [info] no standard startup: not a new window
+[2018-08-17 21:50:56.607] [renderer1] [info] no standard startup: not a new window
+[2018-08-17 21:54:24.184] [renderer1] [info] no standard startup: not a new window
+[2018-08-17 21:54:45.164] [renderer1] [info] no standard startup: not a new window
+[2018-08-17 21:58:44.546] [renderer1] [info] no standard startup: not a new window
+[2018-08-17 22:12:04.919] [renderer1] [error] Unable to create '.vscode/settings.json' (Error: Permission denied writing to file (file:///home/vito/Documents/Netrounds/netrounds_portal/netrounds_portal/.vscode/settings.json)).: Error: Unable to create '.vscode/settings.json' (Error: Permission denied writing to file (file:///home/vito/Documents/Netrounds/netrounds_portal/netrounds_portal/.vscode/settings.json)).
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:3743:770
+    at Object.v [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:152:302)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:155:568)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._chainedError (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:261)
+    at n (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:40)
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:157:736)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:109)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._setCompleteValue (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:596)
+    at Object.v [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:152:284)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:155:568)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._chainedError (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:261)
+    at n (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:40)
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:157:736)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:109)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._setCompleteValue (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:596)
+    at Object.v [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:152:284)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:155:568)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._chainedError (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:261)
+    at n (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:40)
+    at n.Class.define.cancel.then (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:157:736)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:154:109)
+    at n.Class.derive._creator._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._creator._setCompleteValue (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:596)
+    at Object.v [as _notify] (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:152:284)
+    at Object.enter (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:155:568)
+    at n.Class.derive._oncancel._run (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:902)
+    at n.Class.derive._oncancel._error (file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:156:419)
+    at file:///usr/share/code-oss/resources/app/out/vs/workbench/workbench.main.js:200:1015
+    at /usr/share/code-oss/resources/app/node_modules.asar/graceful-fs/polyfills.js:284:29
+    at FSReqWrap.oncomplete (original-fs.js:152:21)
+[2018-08-17 22:13:48.087] [renderer1] [info] no standard startup: not a new window

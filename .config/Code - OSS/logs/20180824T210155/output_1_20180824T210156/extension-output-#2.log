@@ -1,0 +1,66 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module boards.apps
+4,0,error,E0401:Unable to import 'django.apps'
+
+------------------------------------
+Your code has been rated at -2.50/10
+
+##########Linting Output - pylint##########
+************* Module boards.models
+4,0,error,E0401:Unable to import 'django.db'
+
+-------------------------------------
+Your code has been rated at -15.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module netrounds_portal.urls
+16,0,error,E0401:Unable to import 'django.conf.urls'
+17,0,error,E0401:Unable to import 'django.contrib'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module netrounds_portal.urls
+16,0,error,E0401:Unable to import 'django.conf.urls'
+17,0,error,E0401:Unable to import 'django.contrib'
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -15.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

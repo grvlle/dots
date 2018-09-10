@@ -1,0 +1,25 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 6.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.admin
+1,0,error,E0401:Unable to import 'django.contrib'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+

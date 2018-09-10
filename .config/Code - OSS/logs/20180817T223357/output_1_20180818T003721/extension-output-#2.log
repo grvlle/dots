@@ -1,0 +1,357 @@
+Starting Jedi Python language engine.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+
+Linter 'pylint' is not installed. Please install it or select another linter".
+Error: Module 'pylint' not installed.
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module os
+71,4,error,E0401:Unable to import 'nt'
+79,4,error,E0401:Unable to import 'nt'
+612,8,error,E0702:Raising NoneType while only classes or instances are allowed
+865,16,warning,W0612:Unused variable 'wpid'
+51,4,warning,W0614:Unused import CLD_CONTINUED from wildcard import
+51,4,warning,W0614:Unused import CLD_DUMPED from wildcard import
+51,4,warning,W0614:Unused import CLD_EXITED from wildcard import
+51,4,warning,W0614:Unused import CLD_TRAPPED from wildcard import
+51,4,warning,W0614:Unused import DirEntry from wildcard import
+51,4,warning,W0614:Unused import EX_CANTCREAT from wildcard import
+51,4,warning,W0614:Unused import EX_CONFIG from wildcard import
+51,4,warning,W0614:Unused import EX_DATAERR from wildcard import
+51,4,warning,W0614:Unused import EX_IOERR from wildcard import
+51,4,warning,W0614:Unused import EX_NOHOST from wildcard import
+51,4,warning,W0614:Unused import EX_NOINPUT from wildcard import
+51,4,warning,W0614:Unused import EX_NOPERM from wildcard import
+51,4,warning,W0614:Unused import EX_NOUSER from wildcard import
+51,4,warning,W0614:Unused import EX_OK from wildcard import
+51,4,warning,W0614:Unused import EX_OSERR from wildcard import
+51,4,warning,W0614:Unused import EX_OSFILE from wildcard import
+51,4,warning,W0614:Unused import EX_PROTOCOL from wildcard import
+51,4,warning,W0614:Unused import EX_SOFTWARE from wildcard import
+51,4,warning,W0614:Unused import EX_TEMPFAIL from wildcard import
+51,4,warning,W0614:Unused import EX_UNAVAILABLE from wildcard import
+51,4,warning,W0614:Unused import EX_USAGE from wildcard import
+51,4,warning,W0614:Unused import F_LOCK from wildcard import
+51,4,warning,W0614:Unused import F_OK from wildcard import
+51,4,warning,W0614:Unused import F_TEST from wildcard import
+51,4,warning,W0614:Unused import F_TLOCK from wildcard import
+51,4,warning,W0614:Unused import F_ULOCK from wildcard import
+51,4,warning,W0614:Unused import GRND_NONBLOCK from wildcard import
+51,4,warning,W0614:Unused import GRND_RANDOM from wildcard import
+51,4,warning,W0614:Unused import NGROUPS_MAX from wildcard import
+51,4,warning,W0614:Unused import O_ACCMODE from wildcard import
+51,4,warning,W0614:Unused import O_APPEND from wildcard import
+51,4,warning,W0614:Unused import O_ASYNC from wildcard import
+51,4,warning,W0614:Unused import O_CLOEXEC from wildcard import
+51,4,warning,W0614:Unused import O_CREAT from wildcard import
+51,4,warning,W0614:Unused import O_DIRECT from wildcard import
+51,4,warning,W0614:Unused import O_DIRECTORY from wildcard import
+51,4,warning,W0614:Unused import O_DSYNC from wildcard import
+51,4,warning,W0614:Unused import O_EXCL from wildcard import
+51,4,warning,W0614:Unused import O_LARGEFILE from wildcard import
+51,4,warning,W0614:Unused import O_NDELAY from wildcard import
+51,4,warning,W0614:Unused import O_NOATIME from wildcard import
+51,4,warning,W0614:Unused import O_NOCTTY from wildcard import
+51,4,warning,W0614:Unused import O_NOFOLLOW from wildcard import
+51,4,warning,W0614:Unused import O_NONBLOCK from wildcard import
+51,4,warning,W0614:Unused import O_PATH from wildcard import
+51,4,warning,W0614:Unused import O_RDWR from wildcard import
+51,4,warning,W0614:Unused import O_RSYNC from wildcard import
+51,4,warning,W0614:Unused import O_SYNC from wildcard import
+51,4,warning,W0614:Unused import O_TMPFILE from wildcard import
+51,4,warning,W0614:Unused import O_TRUNC from wildcard import
+51,4,warning,W0614:Unused import O_WRONLY from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_DONTNEED from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_NOREUSE from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_NORMAL from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_RANDOM from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_SEQUENTIAL from wildcard import
+51,4,warning,W0614:Unused import POSIX_FADV_WILLNEED from wildcard import
+51,4,warning,W0614:Unused import PRIO_PGRP from wildcard import
+51,4,warning,W0614:Unused import PRIO_PROCESS from wildcard import
+51,4,warning,W0614:Unused import PRIO_USER from wildcard import
+51,4,warning,W0614:Unused import P_ALL from wildcard import
+51,4,warning,W0614:Unused import P_PGID from wildcard import
+51,4,warning,W0614:Unused import P_PID from wildcard import
+51,4,warning,W0614:Unused import RTLD_DEEPBIND from wildcard import
+51,4,warning,W0614:Unused import RTLD_GLOBAL from wildcard import
+51,4,warning,W0614:Unused import RTLD_LAZY from wildcard import
+51,4,warning,W0614:Unused import RTLD_LOCAL from wildcard import
+51,4,warning,W0614:Unused import RTLD_NODELETE from wildcard import
+51,4,warning,W0614:Unused import RTLD_NOLOAD from wildcard import
+51,4,warning,W0614:Unused import RTLD_NOW from wildcard import
+51,4,warning,W0614:Unused import RWF_DSYNC from wildcard import
+51,4,warning,W0614:Unused import RWF_HIPRI from wildcard import
+51,4,warning,W0614:Unused import RWF_NOWAIT from wildcard import
+51,4,warning,W0614:Unused import RWF_SYNC from wildcard import
+51,4,warning,W0614:Unused import R_OK from wildcard import
+51,4,warning,W0614:Unused import SCHED_BATCH from wildcard import
+51,4,warning,W0614:Unused import SCHED_FIFO from wildcard import
+51,4,warning,W0614:Unused import SCHED_IDLE from wildcard import
+51,4,warning,W0614:Unused import SCHED_OTHER from wildcard import
+51,4,warning,W0614:Unused import SCHED_RESET_ON_FORK from wildcard import
+51,4,warning,W0614:Unused import SCHED_RR from wildcard import
+51,4,warning,W0614:Unused import SEEK_DATA from wildcard import
+51,4,warning,W0614:Unused import SEEK_HOLE from wildcard import
+51,4,warning,W0614:Unused import ST_APPEND from wildcard import
+51,4,warning,W0614:Unused import ST_MANDLOCK from wildcard import
+51,4,warning,W0614:Unused import ST_NOATIME from wildcard import
+51,4,warning,W0614:Unused import ST_NODEV from wildcard import
+51,4,warning,W0614:Unused import ST_NODIRATIME from wildcard import
+51,4,warning,W0614:Unused import ST_NOEXEC from wildcard import
+51,4,warning,W0614:Unused import ST_NOSUID from wildcard import
+51,4,warning,W0614:Unused import ST_RDONLY from wildcard import
+51,4,warning,W0614:Unused import ST_RELATIME from wildcard import
+51,4,warning,W0614:Unused import ST_SYNCHRONOUS from wildcard import
+51,4,warning,W0614:Unused import ST_WRITE from wildcard import
+51,4,warning,W0614:Unused import TMP_MAX from wildcard import
+51,4,warning,W0614:Unused import WCONTINUED from wildcard import
+51,4,warning,W0614:Unused import WCOREDUMP from wildcard import
+51,4,warning,W0614:Unused import WEXITED from wildcard import
+51,4,warning,W0614:Unused import WIFCONTINUED from wildcard import
+51,4,warning,W0614:Unused import WNOHANG from wildcard import
+51,4,warning,W0614:Unused import WNOWAIT from wildcard import
+51,4,warning,W0614:Unused import WSTOPPED from wildcard import
+51,4,warning,W0614:Unused import WSTOPSIG from wildcard import
+51,4,warning,W0614:Unused import WUNTRACED from wildcard import
+51,4,warning,W0614:Unused import W_OK from wildcard import
+51,4,warning,W0614:Unused import XATTR_CREATE from wildcard import
+51,4,warning,W0614:Unused import XATTR_REPLACE from wildcard import
+51,4,warning,W0614:Unused import XATTR_SIZE_MAX from wildcard import
+51,4,warning,W0614:Unused import X_OK from wildcard import
+51,4,warning,W0614:Unused import abort from wildcard import
+51,4,warning,W0614:Unused import access from wildcard import
+51,4,warning,W0614:Unused import chdir from wildcard import
+51,4,warning,W0614:Unused import chmod from wildcard import
+51,4,warning,W0614:Unused import chown from wildcard import
+51,4,warning,W0614:Unused import chroot from wildcard import
+51,4,warning,W0614:Unused import closerange from wildcard import
+51,4,warning,W0614:Unused import confstr from wildcard import
+51,4,warning,W0614:Unused import confstr_names from wildcard import
+51,4,warning,W0614:Unused import cpu_count from wildcard import
+51,4,warning,W0614:Unused import ctermid from wildcard import
+51,4,warning,W0614:Unused import device_encoding from wildcard import
+51,4,warning,W0614:Unused import dup from wildcard import
+51,4,warning,W0614:Unused import dup2 from wildcard import
+51,4,warning,W0614:Unused import error from wildcard import
+51,4,warning,W0614:Unused import fchdir from wildcard import
+51,4,warning,W0614:Unused import fchmod from wildcard import
+51,4,warning,W0614:Unused import fchown from wildcard import
+51,4,warning,W0614:Unused import fdatasync from wildcard import
+51,4,warning,W0614:Unused import forkpty from wildcard import
+51,4,warning,W0614:Unused import fpathconf from wildcard import
+51,4,warning,W0614:Unused import fstat from wildcard import
+51,4,warning,W0614:Unused import fstatvfs from wildcard import
+51,4,warning,W0614:Unused import fsync from wildcard import
+51,4,warning,W0614:Unused import ftruncate from wildcard import
+51,4,warning,W0614:Unused import get_blocking from wildcard import
+51,4,warning,W0614:Unused import get_inheritable from wildcard import
+51,4,warning,W0614:Unused import get_terminal_size from wildcard import
+51,4,warning,W0614:Unused import getcwd from wildcard import
+51,4,warning,W0614:Unused import getcwdb from wildcard import
+51,4,warning,W0614:Unused import getegid from wildcard import
+51,4,warning,W0614:Unused import geteuid from wildcard import
+51,4,warning,W0614:Unused import getgid from wildcard import
+51,4,warning,W0614:Unused import getgrouplist from wildcard import
+51,4,warning,W0614:Unused import getgroups from wildcard import
+51,4,warning,W0614:Unused import getloadavg from wildcard import
+51,4,warning,W0614:Unused import getlogin from wildcard import
+51,4,warning,W0614:Unused import getpgid from wildcard import
+51,4,warning,W0614:Unused import getpgrp from wildcard import
+51,4,warning,W0614:Unused import getpid from wildcard import
+51,4,warning,W0614:Unused import getppid from wildcard import
+51,4,warning,W0614:Unused import getpriority from wildcard import
+51,4,warning,W0614:Unused import getrandom from wildcard import
+51,4,warning,W0614:Unused import getresgid from wildcard import
+51,4,warning,W0614:Unused import getresuid from wildcard import
+51,4,warning,W0614:Unused import getsid from wildcard import
+51,4,warning,W0614:Unused import getuid from wildcard import
+51,4,warning,W0614:Unused import getxattr from wildcard import
+51,4,warning,W0614:Unused import initgroups from wildcard import
+51,4,warning,W0614:Unused import isatty from wildcard import
+51,4,warning,W0614:Unused import kill from wildcard import
+51,4,warning,W0614:Unused import killpg from wildcard import
+51,4,warning,W0614:Unused import lchown from wildcard import
+51,4,warning,W0614:Unused import link from wildcard import
+51,4,warning,W0614:Unused import listdir from wildcard import
+51,4,warning,W0614:Unused import listxattr from wildcard import
+51,4,warning,W0614:Unused import lockf from wildcard import
+51,4,warning,W0614:Unused import lseek from wildcard import
+51,4,warning,W0614:Unused import lstat from wildcard import
+51,4,warning,W0614:Unused import major from wildcard import
+51,4,warning,W0614:Unused import makedev from wildcard import
+51,4,warning,W0614:Unused import minor from wildcard import
+51,4,warning,W0614:Unused import mkfifo from wildcard import
+51,4,warning,W0614:Unused import mknod from wildcard import
+51,4,warning,W0614:Unused import nice from wildcard import
+51,4,warning,W0614:Unused import openpty from wildcard import
+51,4,warning,W0614:Unused import pathconf from wildcard import
+51,4,warning,W0614:Unused import pathconf_names from wildcard import
+51,4,warning,W0614:Unused import pipe from wildcard import
+51,4,warning,W0614:Unused import pipe2 from wildcard import
+51,4,warning,W0614:Unused import posix_fadvise from wildcard import
+51,4,warning,W0614:Unused import posix_fallocate from wildcard import
+51,4,warning,W0614:Unused import pread from wildcard import
+51,4,warning,W0614:Unused import preadv from wildcard import
+51,4,warning,W0614:Unused import pwrite from wildcard import
+51,4,warning,W0614:Unused import pwritev from wildcard import
+51,4,warning,W0614:Unused import read from wildcard import
+51,4,warning,W0614:Unused import readlink from wildcard import
+51,4,warning,W0614:Unused import readv from wildcard import
+51,4,warning,W0614:Unused import register_at_fork from wildcard import
+51,4,warning,W0614:Unused import remove from wildcard import
+51,4,warning,W0614:Unused import removexattr from wildcard import
+51,4,warning,W0614:Unused import replace from wildcard import
+51,4,warning,W0614:Unused import sched_get_priority_max from wildcard import
+51,4,warning,W0614:Unused import sched_get_priority_min from wildcard import
+51,4,warning,W0614:Unused import sched_getaffinity from wildcard import
+51,4,warning,W0614:Unused import sched_getparam from wildcard import
+51,4,warning,W0614:Unused import sched_getscheduler from wildcard import
+51,4,warning,W0614:Unused import sched_param from wildcard import
+51,4,warning,W0614:Unused import sched_rr_get_interval from wildcard import
+51,4,warning,W0614:Unused import sched_setaffinity from wildcard import
+51,4,warning,W0614:Unused import sched_setparam from wildcard import
+51,4,warning,W0614:Unused import sched_setscheduler from wildcard import
+51,4,warning,W0614:Unused import sched_yield from wildcard import
+51,4,warning,W0614:Unused import sendfile from wildcard import
+51,4,warning,W0614:Unused import set_blocking from wildcard import
+51,4,warning,W0614:Unused import set_inheritable from wildcard import
+51,4,warning,W0614:Unused import setegid from wildcard import
+51,4,warning,W0614:Unused import seteuid from wildcard import
+51,4,warning,W0614:Unused import setgid from wildcard import
+51,4,warning,W0614:Unused import setgroups from wildcard import
+51,4,warning,W0614:Unused import setpgid from wildcard import
+51,4,warning,W0614:Unused import setpgrp from wildcard import
+51,4,warning,W0614:Unused import setpriority from wildcard import
+51,4,warning,W0614:Unused import setregid from wildcard import
+51,4,warning,W0614:Unused import setresgid from wildcard import
+51,4,warning,W0614:Unused import setresuid from wildcard import
+51,4,warning,W0614:Unused import setreuid from wildcard import
+51,4,warning,W0614:Unused import setsid from wildcard import
+51,4,warning,W0614:Unused import setuid from wildcard import
+51,4,warning,W0614:Unused import setxattr from wildcard import
+51,4,warning,W0614:Unused import stat_result from wildcard import
+51,4,warning,W0614:Unused import statvfs from wildcard import
+51,4,warning,W0614:Unused import statvfs_result from wildcard import
+51,4,warning,W0614:Unused import strerror from wildcard import
+51,4,warning,W0614:Unused import symlink from wildcard import
+51,4,warning,W0614:Unused import sync from wildcard import
+51,4,warning,W0614:Unused import sysconf from wildcard import
+51,4,warning,W0614:Unused import sysconf_names from wildcard import
+51,4,warning,W0614:Unused import system from wildcard import
+51,4,warning,W0614:Unused import tcgetpgrp from wildcard import
+51,4,warning,W0614:Unused import tcsetpgrp from wildcard import
+51,4,warning,W0614:Unused import terminal_size from wildcard import
+51,4,warning,W0614:Unused import times from wildcard import
+51,4,warning,W0614:Unused import times_result from wildcard import
+51,4,warning,W0614:Unused import truncate from wildcard import
+51,4,warning,W0614:Unused import ttyname from wildcard import
+51,4,warning,W0614:Unused import umask from wildcard import
+51,4,warning,W0614:Unused import uname from wildcard import
+51,4,warning,W0614:Unused import uname_result from wildcard import
+51,4,warning,W0614:Unused import unlink from wildcard import
+51,4,warning,W0614:Unused import urandom from wildcard import
+51,4,warning,W0614:Unused import utime from wildcard import
+51,4,warning,W0614:Unused import wait from wildcard import
+51,4,warning,W0614:Unused import wait3 from wildcard import
+51,4,warning,W0614:Unused import wait4 from wildcard import
+51,4,warning,W0614:Unused import waitid from wildcard import
+51,4,warning,W0614:Unused import waitid_result from wildcard import
+51,4,warning,W0614:Unused import write from wildcard import
+51,4,warning,W0614:Unused import writev from wildcard import
+
+-----------------------------------
+Your code has been rated at 5.17/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module boards.views
+4,0,error,E0401:Unable to import 'django.shortcuts'
+5,0,error,E0401:Unable to import 'django.http'
+
+-------------------------------------
+Your code has been rated at -10.00/10
+
+##########Linting Output - pylint##########
+************* Module netrounds_portal.urls
+16,0,error,E0401:Unable to import 'django.conf.urls'
+17,0,error,E0401:Unable to import 'django.contrib'
+
+-------------------------------------
+Your code has been rated at -15.00/10
+
+##########Linting Output - pylint##########
+************* Module netrounds_portal.wsgi
+12,0,error,E0401:Unable to import 'django.core.wsgi'
+
+------------------------------------
+Your code has been rated at -2.50/10
+

@@ -1,0 +1,16 @@
+[2018-08-31 08:48:33.549] [exthost3] [info] extension host started
+[2018-08-31 08:48:33.567] [exthost3] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.567] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/debug-auto-launch/out/extension
+[2018-08-31 08:48:33.576] [exthost3] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.577] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-08-31 08:48:33.620] [exthost3] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.621] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-08-31 08:48:33.749] [exthost3] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.749] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-08-31 08:48:33.756] [exthost3] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.756] [exthost3] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/search-rg/out/extension
+[2018-08-31 08:48:33.761] [exthost3] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.761] [exthost3] [info] ExtensionService#loadCommonJSModule /home/vito/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.4.2/extensions/material.theme.config.js
+[2018-08-31 08:48:33.769] [exthost3] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":true,"activationEvent":"*"}
+[2018-08-31 08:48:33.769] [exthost3] [info] ExtensionService#loadCommonJSModule /home/vito/.vscode-oss/extensions/monokai.theme-monokai-pro-vscode-1.1.8/js/main
+[2018-08-31 08:48:33.774] [exthost3] [info] eager extensions activated

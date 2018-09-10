@@ -1,0 +1,39 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module ntpath
+241,8,warning,W0612:Unused variable 'st'
+536,30,error,E1101:Module 'sys' has no 'getwindowsversion' member
+
+-----------------------------------
+Your code has been rated at 9.85/10
+
+##########Linting Output - pylint##########
+************* Module netrounds_portal.urls
+2,0,error,E0401:Unable to import 'django.conf.urls'
+3,0,error,E0401:Unable to import 'django.contrib'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+----------------------------------------------------------------------
+Your code has been rated at -18.57/10 (previous run: -18.57/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

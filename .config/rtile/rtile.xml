@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<gaps top="122" bottom="102" left="400" right="400" windows_x="32" windows_y="32"/>
+	<columns max_size_main="2" max_size="4" max_count="3"/>
+
+	<!--<workspace id="<id>" median="0.5" reverse_x="true|false" reverse_y="true|false"/>-->
+        
+    <window class="termite" priority="low" fake_windows="2"/>
+    <window class="thunar" floating="true"/>
+    <window class="mpv" floating="true"/>
+    <window class="code" priority="high"/>
+
+	<!--<window class="<class>" priority="high|low" floating="true|false" fake_windows="1|2|3|..."/>-->
+	<column_config windows="1" workspace="all" column_sizes="1"/>
+	<column_config windows="2" workspace="all" column_sizes="1, 1"/>
+	<column_config windows="3" workspace="all" column_sizes="1, 1, 1"/>
+	<column_config windows="4" workspace="all" column_sizes="1, 1, 2"/>
+	<column_config windows="5" workspace="all" column_sizes="1, 1, 3"/>
+	<column_config windows="6" workspace="all" column_sizes="2, 1, 3"/>
+    <column_config windows="7" workspace="all" column_sizes="3, 1, 3"/>
+    <column_config windows="8" workspace="all" column_sizes="3, 2, 3"/>
+    <column_config windows="9" workspace="all" column_sizes="3, 2, 4"/>
+    <column_config windows="10" workspace="all" column_sizes="4, 2, 4"/>
+
+</settings>

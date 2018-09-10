@@ -1,0 +1,1763 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+-----------------------------------
+Your code has been rated at 1.18/10
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+-----------------------------------
+Your code has been rated at 7.62/10
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module posixpath
+388,10,warning,W0612:Unused variable 'ok'
+
+-----------------------------------
+Your code has been rated at 9.97/10
+
+##########Linting Output - pylint##########
+************* Module net_portal.urls
+1,0,error,E0401:Unable to import 'django.contrib'
+2,0,error,E0401:Unable to import 'django.urls'
+3,0,error,E0401:Unable to import 'django.contrib.staticfiles.urls'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+-------------------------------------
+Your code has been rated at -21.25/10
+
+##########Linting Output - pylint##########
+************* Module net_portal.urls
+1,0,error,E0401:Unable to import 'django.contrib'
+2,0,error,E0401:Unable to import 'django.urls'
+3,0,error,E0401:Unable to import 'django.contrib.staticfiles.urls'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+----------------------------------------------------------------------
+Your code has been rated at -25.71/10 (previous run: -21.25/10, -4.46)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.admin
+1,0,error,E0401:Unable to import 'django.contrib'
+
+------------------------------------
+Your code has been rated at -6.67/10
+
+##########Linting Output - pylint##########
+************* Module forms.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+------------------------------------
+Your code has been rated at -2.50/10
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+------------------------------------
+Your code has been rated at -2.50/10
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+-----------------------------------
+Your code has been rated at 4.00/10
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+------------------------------------
+Your code has been rated at -2.50/10
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.http'
+
+------------------------------------
+Your code has been rated at -1.11/10
+
+##########Linting Output - pylint##########
+************* Module release_notes.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.http'
+
+--------------------------------------------------------------------
+Your code has been rated at -1.11/10 (previous run: -1.11/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.views
+4,0,error,E0401:Unable to import 'django.shortcuts'
+5,0,error,E0401:Unable to import 'django.http'
+
+-----------------------------------
+Your code has been rated at 2.31/10
+
+##########Linting Output - pylint##########
+************* Module forms.views
+4,0,error,E0401:Unable to import 'django.shortcuts'
+5,0,error,E0401:Unable to import 'django.http'
+
+------------------------------------------------------------------
+Your code has been rated at 2.31/10 (previous run: 2.31/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.admin
+1,0,error,E0401:Unable to import 'django.contrib'
+
+------------------------------------
+Your code has been rated at -6.67/10
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+37,125,error,E1305:Too many arguments for format string
+37,164,error,E1101:Module 'datetime' has no 'now' member
+
+-------------------------------------------------------------------
+Your code has been rated at -4.71/10 (previous run: 1.18/10, -5.88)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+37,125,error,E1305:Too many arguments for format string
+
+--------------------------------------------------------------------
+Your code has been rated at -1.76/10 (previous run: -4.71/10, +2.94)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+37,125,error,E1305:Too many arguments for format string
+
+--------------------------------------------------------------------
+Your code has been rated at -1.76/10 (previous run: -1.76/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+-------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: -1.76/10, +2.94)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+37,176,error,E0602:Undefined variable 'now'
+
+-------------------------------------------------------------------
+Your code has been rated at -1.76/10 (previous run: 1.18/10, -2.94)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+-------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: -1.76/10, +2.94)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+40,0,error,E0001:invalid syntax (<unknown>, line 40)
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+
+------------------------------------------------------------------
+Your code has been rated at 7.62/10 (previous run: 7.62/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+7,13,error,E1101:Module 'search.views' has no 'search' member
+8,19,error,E1101:Module 'search.views' has no 'NewHardware' member
+
+-------------------------------------
+Your code has been rated at -27.50/10
+
+##########Linting Output - pylint##########
+************* Module net_portal.urls
+1,0,error,E0401:Unable to import 'django.contrib'
+2,0,error,E0401:Unable to import 'django.urls'
+3,0,error,E0401:Unable to import 'django.contrib.staticfiles.urls'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+----------------------------------------------------------------------
+Your code has been rated at -25.71/10 (previous run: -25.71/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+
+----------------------------------------------------------------------
+Your code has been rated at -6.67/10 (previous run: -40.00/10, +33.33)
+
+##########Linting Output - pylint##########
+************* Module forms.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.views
+4,0,error,E0401:Unable to import 'django.shortcuts'
+5,0,error,E0401:Unable to import 'django.http'
+
+------------------------------------------------------------------
+Your code has been rated at 0.91/10 (previous run: 2.31/10, -1.40)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -27.50/10, +25.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+
+--------------------------------------------------------------------
+Your code has been rated at -6.67/10 (previous run: -6.67/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.admin
+1,0,error,E0401:Unable to import 'django.contrib'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+************* Module search.models
+1,0,error,E0401:Unable to import 'django.db'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 7.62/10, -1.19)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.43/10, +0.12)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+8,0,error,E0401:Unable to import 'django.views.generic'
+43,15,error,E0602:Undefined variable 'Post'
+
+--------------------------------------------------------------------
+Your code has been rated at 3.48/10 (previous run: -6.67/10, +10.14)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+8,0,error,E0401:Unable to import 'django.views.generic'
+43,15,error,E0602:Undefined variable 'Post'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 3.48/10, +0.52)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+40,15,error,E0602:Undefined variable 'Post'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module class_name
+1,0,error,E0401:Unable to import 'django'
+
+------------------------------------
+Your code has been rated at -2.50/10
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 4.00/10, +2.00)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+8,18,error,E1101:Module 'search.views' has no 'view' member
+
+----------------------------------------------------------------------
+Your code has been rated at -15.00/10 (previous run: -2.50/10, -12.50)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -15.00/10, +12.50)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 6.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.models
+1,0,error,E0401:Unable to import 'django.db'
+
+----------------------------------------------------------------------
+Your code has been rated at -40.00/10 (previous run: -40.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.30/10 (previous run: 6.55/10, -0.26)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.55/10 (previous run: 6.30/10, +0.26)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+27,30,error,E0602:Undefined variable 'Profile'
+
+------------------------------------------------------------------
+Your code has been rated at 4.23/10 (previous run: 6.00/10, -1.77)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+27,30,error,E0602:Undefined variable 'Profile'
+27,12,warning,W0612:Unused variable 'profile_results'
+
+------------------------------------------------------------------
+Your code has been rated at 3.85/10 (previous run: 4.23/10, -0.38)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+26,25,error,E0602:Undefined variable 'SerialNumber'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 3.85/10, +0.15)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 4.00/10, +2.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.88/10 (previous run: 6.55/10, +0.32)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 7.06/10 (previous run: 6.88/10, +0.18)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 6.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 6.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 6.00/10, -0.35)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 5.65/10, +0.35)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.88/10 (previous run: 7.06/10, -0.18)
+
+##########Linting Output - pylint##########
+************* Module search.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module net_portal.urls
+1,0,error,E0401:Unable to import 'django.contrib'
+2,0,error,E0401:Unable to import 'django.urls'
+3,0,error,E0401:Unable to import 'django.contrib.staticfiles.urls'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+----------------------------------------------------------------------
+Your code has been rated at -21.25/10 (previous run: -25.71/10, +4.46)
+
+##########Linting Output - pylint##########
+************* Module net_portal.urls
+1,0,error,E0401:Unable to import 'django.contrib'
+2,0,error,E0401:Unable to import 'django.urls'
+3,0,error,E0401:Unable to import 'django.contrib.staticfiles.urls'
+4,0,error,E0401:Unable to import 'django.conf.urls.static'
+5,0,error,E0401:Unable to import 'django.conf'
+
+----------------------------------------------------------------------
+Your code has been rated at -21.25/10 (previous run: -21.25/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.30/10 (previous run: 6.88/10, -0.58)
+
+##########Linting Output - pylint##########
+************* Module search.models
+1,0,error,E0401:Unable to import 'django.db'
+
+----------------------------------------------------------------------
+Your code has been rated at -40.00/10 (previous run: -40.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.30/10 (previous run: 6.30/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.apps
+1,0,error,E0401:Unable to import 'django.apps'
+
+------------------------------------
+Your code has been rated at -6.67/10
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 6.00/10 (previous run: 6.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 6.00/10, -0.35)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+38,0,error,E0001:invalid syntax (<unknown>, line 38)
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+41,0,error,E0001:unexpected EOF while parsing (<unknown>, line 41)
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+38,24,error,E0602:Undefined variable 'reverse'
+
+------------------------------------------------------------------
+Your code has been rated at 3.48/10 (previous run: 5.65/10, -2.17)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 3.48/10, +2.17)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.tests
+1,0,error,E0401:Unable to import 'django.test'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module forms.views
+4,0,error,E0401:Unable to import 'django.shortcuts'
+5,0,error,E0401:Unable to import 'django.http'
+
+------------------------------------------------------------------
+Your code has been rated at 0.91/10 (previous run: 0.91/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+14,7,error,E1120:No value for argument 'seq' in method call
+17,6,error,E0602:Undefined variable 'value'
+
+-------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 10.00/10, -8.33)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+14,7,error,E1120:No value for argument 'seq' in method call
+17,6,error,E0602:Undefined variable 'value'
+
+-------------------------------------------------------------------
+Your code has been rated at -1.11/10 (previous run: 1.67/10, -2.78)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+14,7,error,E1120:No value for argument 'seq' in method call
+17,6,error,E0602:Undefined variable 'value'
+
+--------------------------------------------------------------------
+Your code has been rated at -1.11/10 (previous run: -1.11/10, +0.00)
+
+##########Linting Output - pylint##########
+
+---------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: -1.11/10, +11.11)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+18,6,error,E0602:Undefined variable 'value'
+
+-------------------------------------------------------------------
+Your code has been rated at 5.83/10 (previous run: 10.00/10, -4.17)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+18,6,error,E0602:Undefined variable 'value'
+
+------------------------------------------------------------------
+Your code has been rated at 5.83/10 (previous run: 5.83/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+18,6,error,E0602:Undefined variable 'value'
+
+------------------------------------------------------------------
+Your code has been rated at 5.83/10 (previous run: 5.83/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+18,6,error,E0602:Undefined variable 'value'
+
+------------------------------------------------------------------
+Your code has been rated at 5.83/10 (previous run: 5.83/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+17,6,error,E0602:Undefined variable 'value'
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 5.83/10, -0.38)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 5.45/10, +4.55)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+15,0,error,E0001:unexpected indent (<unknown>, line 15)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+19,0,error,E0001:invalid syntax (<unknown>, line 19)
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+19,0,error,E0001:invalid syntax (<unknown>, line 19)
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+34,0,error,E1111:Assigning to function call which doesn't return
+
+-------------------------------------------------------------------
+Your code has been rated at 7.50/10 (previous run: 10.00/10, -2.50)
+
+##########Linting Output - pylint##########
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.50/10, +2.50)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+##########Linting Output - pylint##########
+************* Module forms.HomeMadeScripts
+6,0,error,E0001:expected an indented block (<unknown>, line 6)
+##########Linting Output - pylint##########
+************* Module forms.HomeMadeScripts
+6,0,error,E0001:expected an indented block (<unknown>, line 6)
+##########Linting Output - pylint##########
+************* Module forms.SerialNumberGen
+6,0,error,E0001:expected an indented block (<unknown>, line 6)
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.18/10, +0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+37,140,error,E1121:Too many positional arguments for function call
+37,152,error,E0602:Undefined variable 'self'
+
+-------------------------------------------------------------------
+Your code has been rated at -3.89/10 (previous run: 1.67/10, -5.56)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+-------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: -3.89/10, +5.56)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.67/10, -0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.30/10, +0.13)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.77/10 (previous run: 6.43/10, +0.35)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+72,21,error,E0602:Undefined variable 'User'
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 6.77/10, -1.32)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+72,15,error,E1003:Bad first argument 'SerialNumberDetails' given to super()
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 5.45/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+72,21,error,E0602:Undefined variable 'User'
+
+------------------------------------------------------------------
+Your code has been rated at 5.45/10 (previous run: 5.45/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 5.45/10, +0.97)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.18/10, +0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 4.23/10 (previous run: 1.67/10, +2.56)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+38,0,error,E0001:invalid syntax (<unknown>, line 38)
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 4.23/10, -2.56)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.67/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.67/10, -0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.67/10 (previous run: 1.18/10, +0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.67/10, -0.49)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.forms
+1,0,error,E0401:Unable to import 'django'
+3,0,error,E0401:Unable to import 'crispy_forms.helper'
+4,0,error,E0401:Unable to import 'crispy_forms.layout'
+
+------------------------------------------------------------------
+Your code has been rated at 1.18/10 (previous run: 1.18/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+29,5,error,E1102:('', 'Where will the TA register to?') is not callable
+35,5,error,E1102:('', 'Select the Test Agent model') is not callable
+42,5,error,E1102:('', 'Select the HW generation of the Test Agent') is not callable
+
+------------------------------------------------------------------
+Your code has been rated at 1.07/10 (previous run: 6.43/10, -5.36)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+29,5,error,E1102:(' ', 'Where will the TA register to?') is not callable
+35,5,error,E1102:(' ', 'Select the Test Agent model') is not callable
+42,5,error,E1102:(' ', 'Select the HW generation of the Test Agent') is not callable
+
+------------------------------------------------------------------
+Your code has been rated at 1.07/10 (previous run: 1.07/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+29,5,error,E1102:('', 'Where will the TA register to?') is not callable
+35,5,error,E1102:('', 'Select the Test Agent model') is not callable
+42,5,error,E1102:('', 'Select the HW generation of the Test Agent') is not callable
+
+------------------------------------------------------------------
+Your code has been rated at 1.07/10 (previous run: 1.07/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+29,5,error,E1102:('', 'Where will the TA register to?') is not callable
+35,5,error,E1102:('', 'Select the Test Agent model') is not callable
+42,5,error,E1102:('', 'Select the HW generation of the Test Agent') is not callable
+
+------------------------------------------------------------------
+Your code has been rated at 1.07/10 (previous run: 1.07/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 1.07/10, +5.36)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.43/10 (previous run: 6.43/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module forms.models
+71,0,error,E0001:unexpected indent (<unknown>, line 71)
+##########Linting Output - pylint##########
+************* Module forms.models
+4,0,error,E0401:Unable to import 'django.db'
+5,0,error,E0401:Unable to import 'django.db.models'
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 6.43/10, +0.24)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module search.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+3,0,error,E0401:Unable to import 'django.views.generic'
+
+------------------------------------------------------------------
+Your code has been rated at 5.65/10 (previous run: 5.65/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module release_notes.urls
+1,0,error,E0401:Unable to import 'django.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.urls
+1,0,error,E0401:Unable to import 'django.conf.urls'
+
+--------------------------------------------------------------------
+Your code has been rated at -2.50/10 (previous run: -2.50/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.views
+1,0,error,E0401:Unable to import 'django.shortcuts'
+2,0,error,E0401:Unable to import 'django.contrib.auth.forms'
+3,0,error,E0401:Unable to import 'django.contrib.auth'
+
+------------------------------------------------------------------
+Your code has been rated at 4.00/10 (previous run: 4.00/10, +0.00)
+
+##########Linting Output - pylint##########
+************* Module accounts.models
+1,0,error,E0401:Unable to import 'django.db'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########
+************* Module accounts.tests
+1,0,error,E0401:Unable to import 'django.test'
+
+-------------------------------------
+Your code has been rated at -40.00/10
+
+##########Linting Output - pylint##########

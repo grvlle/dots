@@ -1,0 +1,60 @@
+[options]
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+mouse_autohide = false
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = t cherry wide 8
+scrollback_lines = 10000
+search_wrap = true
+icon_name = utilities-terminal
+geometry = 750x500
+clickable_url = true
+cursor_blink = system
+cursor_shape = block
+browser = exo-open
+filter_unmatched_urls = true
+
+[colors]
+
+# special
+foreground      = #e8dfd6
+foreground_bold = #e8dfd6
+cursor          = #e8dfd6
+background      = #021b21
+
+# black
+color0  = #032c36
+color8  = #065f73
+
+# red
+color1  = #c2454e
+color9  = #ef5847
+
+# green
+color2  = #7cbf9e
+color10 = #a2d9b1
+
+# yellow
+color3  = #8a7a63
+color11 = #beb090
+
+# blue
+color4  = #2e3340
+color12 = #61778d
+
+# magenta
+color5  = #ff5879
+color13 = #ff99a1
+
+# cyan
+color6  = #44b5b1
+color14 = #9ed9d8
+
+# white
+color7  = #f2f1b9
+color15 = #f6f6c9
+

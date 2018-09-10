@@ -1,0 +1,86 @@
+[2018-08-31 08:58:19.675] [renderer2] [info] no standard startup: not just one window
+[2018-09-01 13:57:59.648] [renderer2] [error] Cannot read property 'start' of undefined: TypeError: Cannot read property 'start' of undefined
+	at Object.isStyleAttribute (/usr/share/code-oss/resources/app/extensions/emmet/out/util.js:537:57)
+	at DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:71:28)
+	at DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:12:39)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:784
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:323
+	at new n.Class.derive._oncancel (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:84:776)
+	at Object.t.asWinJsPromise (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:286)
+	at e.provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:738)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:754:10
+	at e._withAdapter (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:747:177)
+	at e.$provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:753:987)
+	at e._doInvokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+	at e._invokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+	at e._receiveRequest (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+	at e._receiveOneMessage (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+	at e.fire (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+	at a (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+	at Socket._socketDataListener (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at addChunk (_stream_readable.js:263:12)
+	at readableAddChunk (_stream_readable.js:250:11)
+	at Socket.Readable.push (_stream_readable.js:208:10)
+	at Pipe.onread (net.js:594:20)
+[2018-09-01 13:58:04.274] [renderer2] [error] Cannot read property 'start' of undefined: TypeError: Cannot read property 'start' of undefined
+	at Object.isStyleAttribute (/usr/share/code-oss/resources/app/extensions/emmet/out/util.js:537:57)
+	at DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:71:28)
+	at DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:12:39)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:784
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:323
+	at new n.Class.derive._oncancel (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:84:776)
+	at Object.t.asWinJsPromise (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:286)
+	at e.provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:738)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:754:10
+	at e._withAdapter (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:747:177)
+	at e.$provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:753:987)
+	at e._doInvokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+	at e._invokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+	at e._receiveRequest (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+	at e._receiveOneMessage (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+	at e.fire (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+	at a (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+	at Socket._socketDataListener (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at addChunk (_stream_readable.js:263:12)
+	at readableAddChunk (_stream_readable.js:250:11)
+	at Socket.Readable.push (_stream_readable.js:208:10)
+	at Pipe.onread (net.js:594:20)
+[2018-09-01 13:58:05.560] [renderer2] [error] Cannot read property 'start' of undefined: TypeError: Cannot read property 'start' of undefined
+	at Object.isStyleAttribute (/usr/share/code-oss/resources/app/extensions/emmet/out/util.js:537:57)
+	at DefaultCompletionItemProvider.provideCompletionItemsInternal (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:71:28)
+	at DefaultCompletionItemProvider.provideCompletionItems (/usr/share/code-oss/resources/app/extensions/emmet/out/defaultCompletionProvider.js:12:39)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:784
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:323
+	at new n.Class.derive._oncancel (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:84:776)
+	at Object.t.asWinJsPromise (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:110:286)
+	at e.provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:741:738)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:754:10
+	at e._withAdapter (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:747:177)
+	at e.$provideCompletionItems (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:753:987)
+	at e._doInvokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:983)
+	at e._invokeHandler (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:671:701)
+	at e._receiveRequest (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:767)
+	at e._receiveOneMessage (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:670:536)
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:669:452
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:672:575
+	at /usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:96:903
+	at e.fire (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:98:218)
+	at a (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:713)
+	at Socket._socketDataListener (/usr/share/code-oss/resources/app/out/vs/workbench/node/extensionHostProcess.js:162:932)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at addChunk (_stream_readable.js:263:12)
+	at readableAddChunk (_stream_readable.js:250:11)
+	at Socket.Readable.push (_stream_readable.js:208:10)
+	at Pipe.onread (net.js:594:20)
+[2018-09-07 22:07:32.512] [renderer2] [info] no standard startup: not just one text editor

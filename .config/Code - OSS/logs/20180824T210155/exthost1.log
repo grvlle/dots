@@ -1,0 +1,24 @@
+[2018-08-24 21:01:57.447] [exthost1] [info] extension host started
+[2018-08-24 21:01:57.460] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.460] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/debug-auto-launch/out/extension
+[2018-08-24 21:01:57.466] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.467] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/emmet/out/extension
+[2018-08-24 21:01:57.511] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.511] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/git/out/main
+[2018-08-24 21:01:57.620] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.620] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/merge-conflict/out/extension
+[2018-08-24 21:01:57.628] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.628] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/search-rg/out/extension
+[2018-08-24 21:01:57.633] [exthost1] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.633] [exthost1] [info] ExtensionService#loadCommonJSModule /home/vito/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.3.0/extensions/material.theme.config.js
+[2018-08-24 21:01:57.641] [exthost1] [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode {"startup":true,"activationEvent":"*"}
+[2018-08-24 21:01:57.641] [exthost1] [info] ExtensionService#loadCommonJSModule /home/vito/.vscode-oss/extensions/monokai.theme-monokai-pro-vscode-1.1.8/js/main
+[2018-08-24 21:01:57.654] [exthost1] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2018-08-24 21:01:57.654] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/python/out/pythonMain
+[2018-08-24 21:01:57.655] [exthost1] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2018-08-24 21:01:57.655] [exthost1] [info] ExtensionService#loadCommonJSModule /home/vito/.vscode-oss/extensions/ms-python.python-2018.7.1/out/client/extension
+[2018-08-24 21:01:58.816] [exthost1] [info] eager extensions activated
+[2018-08-24 21:10:09.799] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-24 21:10:09.799] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/configuration-editing/out/extension
+[2018-08-24 21:10:09.808] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-24 21:10:09.808] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-oss/resources/app/extensions/json-language-features/client/out/jsonMain

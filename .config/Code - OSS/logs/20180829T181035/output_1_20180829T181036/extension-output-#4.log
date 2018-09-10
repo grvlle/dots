@@ -1,0 +1,8 @@
+[Info  - 21:14:04] Using tsserver from: /usr/share/code-oss/resources/app/extensions/node_modules/typescript/lib
+[Info  - 21:14:04] Forking TSServer
+PATH: /home/vito/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/sbin:/usr/sbin 
+[Info  - 21:14:04] Started TSServer
+[Info  - 00:04:56] Using tsserver from: /usr/share/code-oss/resources/app/extensions/node_modules/typescript/lib
+[Info  - 00:04:56] Forking TSServer
+PATH: /home/vito/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/sbin:/usr/sbin 
+[Info  - 00:04:56] Started TSServer
